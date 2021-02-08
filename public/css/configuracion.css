@@ -1,0 +1,12 @@
+.opcion-configuracion{
+    border: 1px solid #ededed;
+    padding: 10px 5px;
+    transition-duration: .5s;
+    border-radius: 3px;
+}
+
+.opcion-configuracion:hover{
+    border: 1px solid rgba(0, 99, 247, 0.6);
+    background-color: rgba(232, 232, 232, 0.2);
+    box-shadow: 0px 0px 5px 1px rgba(0, 99, 247, 0.3);
+}

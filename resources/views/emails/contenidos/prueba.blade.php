@@ -1,0 +1,1 @@
+<p>Prueba de envio de correo para <strong>{{$usuario->nombres.' '.$usuario->apellidos}}</strong></p>
