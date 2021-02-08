@@ -1,7 +1,6 @@
 /node_modules
 /public/hot
 /public/storage
-/public/DataTables-1.10.15
 /storage/*.key
 /vendor
 /.idea
